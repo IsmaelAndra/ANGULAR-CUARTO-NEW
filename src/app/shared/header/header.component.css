@@ -1,0 +1,87 @@
+.header {
+    width: 100%;
+    height: 65px;
+    background-color: white;
+}
+
+.title {
+    position: absolute;
+}
+
+.title img {
+    width: 230px;
+    height: 150px;
+    margin-top: -35px;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    width: 40%;
+    height: 65px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(4, 4, 204);
+    font-weight: bold;
+}
+
+img {
+    width: 24px;
+    height: 24px;
+}
+
+.left {
+    width: 25%;
+    padding: 10px;
+}
+
+.left:hover {
+    border-bottom: 5px red solid;
+    
+}
+
+.left-bottom {
+    margin-top: -15px;
+}
+
+.left-center {
+    width: 25%;
+    padding: 10px;
+}
+
+.left-center:hover {
+    border-bottom: 5px red solid;
+}
+
+.left-center-bottom {
+    margin-top: -15px;
+}
+
+.right-center {
+    width: 25%;
+    padding: 10px;
+}
+
+.right-center:hover {
+    border-bottom: 5px red solid;
+}
+
+.right-center-bottom {
+    margin-top: -15px;
+}
+
+.right {
+    width: 25%;
+    padding: 10px;
+}
+
+.right:hover {
+    border-bottom: 5px red solid;
+}
+
+.right-bottom {
+    margin-top: -15px;
+}
